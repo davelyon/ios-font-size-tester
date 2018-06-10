@@ -15,6 +15,8 @@ Change the fonts listed in `UIFontTextStyle+CustomFont.swift` to your preference
 
 <img src="fonts.gif" width="311px" />
 
+Generate a gif like this via the included script: `./gifit.sh` (Requires imagemagick)
+
 ## Supported By:
 
 iOS Dev Recipes and related open source projects are maintained by [Dave Lyon](http://davelyon.net/) and [Traboule Software](https://www.traboulesoftware.com/).
