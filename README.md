@@ -11,7 +11,7 @@ Clone the repo, open the xcodeproj and run in the simulator
 
 ## Usage:
 
-Change the fonts listed in `UIFontTextStyle+CustomFont.swift` to your preferences, and then run the app. You can generate a set of screenshots matching all content sizes by running the tests included with the project.
+Change the fonts listed in [UIFontTextStyle+CustomFont.swift](https://github.com/davelyon/ios-font-size-tester/blob/master/fontsizing/UIFontTextStyle%2BCustomFont.swift#L3-L18) to your preferences, and then run the app. You can generate a set of screenshots matching all content sizes by running the tests included with the project.
 
 <img src="fonts.gif" width="311px" />
 
