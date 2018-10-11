@@ -2,7 +2,7 @@
 
 # Font Size Tester for iOS Apps
 
-A quick way to test out a resizable font stack at all sizes via UI testing. For more info, see our [guide over at iOS Dev Recipes](https://www.iosdev.recipes/fonts/ui-font-metrics-and-resizable-text/).
+A quick way to test out a resizable font stack at all sizes via UI testing. For more info, see our [UIFontMetrics guide over at iOS Dev Recipes](https://www.iosdev.recipes/fonts/ui-font-metrics-and-resizable-text/).
 
 
 ## Installation:
